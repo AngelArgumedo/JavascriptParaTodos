@@ -15,7 +15,7 @@ JavaScript fue creado por Brendan Eich en 1995 y ha evolucionado con varias vers
 Se utiliza principalmente para crear interactividad en las páginas web, desarrollar aplicaciones web, y más.
 
 - **Herramientas necesarias (editor de código, navegador)**  
-Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studio Code*](https://code.visualstudio.com)), [*NodeJS*](https://nodejs.org/en)  y un navegador moderno (como Chrome o Firefox).
+Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studio Code*](https://code.visualstudio.com)), un entorno de ejecucion para ejecutar codigo en nuestra maquina en este caso: [*NodeJS*](https://nodejs.org/en) y un navegador moderno (como Chrome o Firefox).
 
 ## 2. Fundamentos de JavaScript
 - **Sintaxis básica**  
