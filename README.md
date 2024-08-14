@@ -18,6 +18,7 @@ Se utiliza principalmente para crear interactividad en las páginas web, desarro
 Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studio Code*](https://code.visualstudio.com)), un entorno de ejecucion para ejecutar codigo en nuestra maquina en este caso: [*NodeJS*](https://nodejs.org/en) y un navegador moderno (como Chrome o Firefox).
 
 ## 2. Fundamentos de JavaScript
+[*Ir a la leccion*](./docs/2-FundamentosJS.md)
 - **Sintaxis básica**  
   ```javascript
   console.log("Hola, mundo!");
