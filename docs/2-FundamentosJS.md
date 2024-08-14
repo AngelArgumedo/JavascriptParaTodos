@@ -8,7 +8,7 @@
 
 - ## **Variables**  
   - Puedes imaginarte a las variables como cajas en las que puedes guardar datos y estos datos pueden variar (cambiar) en el tiempo.
-  - ![imagen](./img/cajas%20variables.png)
+   ![imagen](./img/cajas%20variables.png)
   - Las variables se declaran usando la palabra reservada `let` o `var`.
      ![imagen](./img/declaracion%201.png)
   - Seguidamente se le asigna el nombre que se le quiere dar a la variable.
