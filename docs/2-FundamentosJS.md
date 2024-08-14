@@ -1,63 +1,39 @@
 ## 2. Fundamentos de JavaScript
-- **Sintaxis básica**  
+- **Sintaxis básica**
+  - Hola mundo es un ejemplo de sintaxis básica de JavaScript.
+  - `console.log` es una función que imprime en la consola el texto que le pasemos como parámetro.
   ```javascript
   console.log("Hola, mundo!");
   ```
 
-- **Variables y tipos de datos**  
+- **Variables**  
+  - Puedes imaginarte a las variables como cajas en las que puedes guardar datos y estos datos pueden variar (cambiar) en el tiempo.
+  - ![imagen](./img/cajas%20variables.png)
+  - Las variables se declaran usando la palabra reservada `let` o `var`.
+    - ![imagen](./img/declaracion%201.png)
+  - Seguidamente se le asigna el nombre que se le quiere dar a la variable.
+    - ![imagen](./img/declaracion%202.png)
+  - Luego colocamos el signo `=` para asignar el valor a la variable.
+    - ![imagen](./img/declaracion%203.png)
+  - Finalmente colocamos el valor que queremos asignar a la variable.
+    - ![imagen](./img/declaracion%204.png)
+  - Codigo de ejemplo:
   ```javascript
+  var numero = 88;  // Number
   let nombre = "Juan";  // String
   let edad = 25;        // Número
   let esEstudiante = true;  // Booleano
   ```
 
-  - **Tipos primitivos (números, cadenas, booleanos, etc.)**
-    ```javascript
-    let numero = 42;
-    let texto = "Hola";
-    let esVerdad = false;
-    ```
+- **Constantes**  
+  - Puedes imaginarte a las constantes como cajas en las que puedes guardar datos pero estos datos no pueden variar (no cambiar) en el tiempo.
+  - ![imagen](./img/cajas%20constantes.png)
+  - Las constantes se declaran usando la palabra reservada `const` seguidamente se le asigna el nombre que se le quiere dar a la constante, luego colocamos el signo `=` para asignar el valor a la constante y finalmente colocamos el valor que queremos asignar a la constante.
 
-  - **Tipos complejos (objetos, arrays)**
-    ```javascript
-    let persona = { nombre: "Ana", edad: 30 };
-    let colores = ["rojo", "verde", "azul"];
-    ```
-
-- **Operadores**  
-  - **Aritméticos**  
-    ```javascript
-    let suma = 5 + 3;
-    let resta = 10 - 2;
-    ```
-
-  - **Comparación**  
-    ```javascript
-    let esIgual = (5 == 5);
-    let esMayor = (10 > 5);
-    ```
-
-  - **Lógicos**  
-    ```javascript
-    let resultado = (5 > 3) && (2 < 4);
-    ```
-
-- **Estructuras de control**  
-  - **Condicionales (if, else, switch)**  
-    ```javascript
-    let edad = 18;
-    if (edad >= 18) {
-      console.log("Eres mayor de edad");
-    } else {
-      console.log("Eres menor de edad");
-    }
-    ```
-
-  - **Bucles (for, while, do-while)**  
-    ```javascript
-    for (let i = 0; i < 5; i++) {
-      console.log(i);
-    }
-    ```
+  - Codigo de ejemplo:
+  ```javascript
+  const PI = 3.14;  // Constante numerica
+  const nombre = "Juan";  // Constante
+  ```
 
 **[↩️Regresar al inicio](../README.md)**
