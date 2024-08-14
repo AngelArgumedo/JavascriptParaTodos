@@ -16,69 +16,12 @@ Se utiliza principalmente para crear interactividad en las páginas web, desarro
 
 - **Herramientas necesarias (editor de código, navegador)**  
 Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studio Code*](https://code.visualstudio.com)), un entorno de ejecucion para ejecutar codigo en nuestra maquina en este caso: [*NodeJS*](https://nodejs.org/en) y un navegador moderno (como Chrome o Firefox).
+**[*Paso a paso de Instalacion▶️*](./docs/1-Instalacion.md)**
+
 
 ## 2. Fundamentos de JavaScript
-[*Ir a la leccion*](./docs/2-FundamentosJS.md)
-- **Sintaxis básica**  
-  ```javascript
-  console.log("Hola, mundo!");
-  ```
-
-- **Variables y tipos de datos**  
-  ```javascript
-  let nombre = "Juan";  // String
-  let edad = 25;        // Número
-  let esEstudiante = true;  // Booleano
-  ```
-
-  - **Tipos primitivos (números, cadenas, booleanos, etc.)**
-    ```javascript
-    let numero = 42;
-    let texto = "Hola";
-    let esVerdad = false;
-    ```
-
-  - **Tipos complejos (objetos, arrays)**
-    ```javascript
-    let persona = { nombre: "Ana", edad: 30 };
-    let colores = ["rojo", "verde", "azul"];
-    ```
-
-- **Operadores**  
-  - **Aritméticos**  
-    ```javascript
-    let suma = 5 + 3;
-    let resta = 10 - 2;
-    ```
-
-  - **Comparación**  
-    ```javascript
-    let esIgual = (5 == 5);
-    let esMayor = (10 > 5);
-    ```
-
-  - **Lógicos**  
-    ```javascript
-    let resultado = (5 > 3) && (2 < 4);
-    ```
-
-- **Estructuras de control**  
-  - **Condicionales (if, else, switch)**  
-    ```javascript
-    let edad = 18;
-    if (edad >= 18) {
-      console.log("Eres mayor de edad");
-    } else {
-      console.log("Eres menor de edad");
-    }
-    ```
-
-  - **Bucles (for, while, do-while)**  
-    ```javascript
-    for (let i = 0; i < 5; i++) {
-      console.log(i);
-    }
-    ```
+- **Sintaxis básica, Variables y Constantes**
+[*👉Ir a la leccion▶️*](./docs/2-FundamentosJS.md)
 
 ## 3. Funciones
 - **Declaración de funciones**  
