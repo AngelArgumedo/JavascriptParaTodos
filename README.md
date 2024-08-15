@@ -26,41 +26,55 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 [*👉Ir a la leccion▶️*](./docs/2-FundamentosJS.md)
 - **Tipos de Datos**
 [*👉Ir a la leccion▶️*](./docs/2-TiposDatos.md)
+- **Operadores**
 
+- **Estructuras de control**
 
 ## 3. Funciones
 - **Declaración de funciones**  
-  ```javascript
-  function saludar(nombre) {
-    return `Hola, ${nombre}`;
-  }
-  ```
 
 - **Parámetros y argumentos**  
-  ```javascript
-  saludar("Carlos");  // Llamada a la función con argumento "Carlos"
-  ```
 
 - **Funciones anónimas**  
-  ```javascript
-  const suma = function(a, b) {
-    return a + b;
-  };
-  ```
 
 - **Funciones flecha**  
-  ```javascript
-  const multiplicar = (a, b) => a * b;
-  ```
+
+- **Recursividad**
 
 - **Alcance y cierre**  
-  ```javascript
-  function crearContador() {
-    let contador = 0;
-    return function() {
-      contador++;
-      return contador;
-    };
-  }
-  const contador = crearContador();
-  ```
+
+## 4. Estructuras de datos
+
+- **Arrays**
+
+- **Listas enlazadas (Linked List)**
+
+- **Pilas (Stack)**
+
+- **Colas (Queue)**
+
+- **Arboles (Tree)**
+
+- **Grafos (Graph)**
+
+## 5. Programación orientada a objetos (POO)
+
+- **Clases y objetos**
+
+- **Herencia y polimorfismo**
+
+- **Encapsulamiento**
+
+- **Metodos y propiedades**
+
+- **Prototipos**
+
+## 6. Asincronia en JavaScript
+
+- **Callbacks**
+
+- **Promesas**
+
+- **Async/Await**
+
+- **Manejo de errores**
