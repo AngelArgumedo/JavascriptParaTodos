@@ -106,7 +106,7 @@ Tipos Primitivos son aquellos que representan un valor simple e inmutable.
             - `[a-zA-Z]` indica que la cadena puede contener letras en minúsculas o mayúsculas.
             - `+` indica que la cadena puede contener más de una letra.
             - `$` indica el final de la cadena.  
-
+            <br>
         - 2. **Verificar si una cadena es un número entero**
             ```javascript
             let regExp = /^\d+$/;
@@ -115,7 +115,7 @@ Tipos Primitivos son aquellos que representan un valor simple e inmutable.
             ```
             - `\d` indica que la cadena puede contener solo números.
             - `+` indica que debe haber uno o más dígitos.  
-
+            <br>
         - 3. **Comprobar si una cadena es un correo electrónico válido.**
             ```javascript
             let regExp = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
@@ -125,7 +125,8 @@ Tipos Primitivos son aquellos que representan un valor simple e inmutable.
             - `[a-zA-Z0-9._%+-]` coincide con letras, números, y algunos caracteres especiales que son comunes en correos electrónicos.
             - `@` coincide con el símbolo arroba.
             - `a-zA-Z0-9.-` coincide con letras, números, y puntos.
-            - `[a-zA-Z]{2,}` coincide con al menos dos letras en la extensión del dominio.  
+            - `[a-zA-Z]{2,}` coincide con al menos dos letras en la extensión del dominio.
+            <br>
         - 4. **Encontrar todas las ocurrencias de una palabra en una cadena.**
             ```javascript
             let regExp = /mundo/gi;
