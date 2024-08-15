@@ -17,6 +17,7 @@ Se utiliza principalmente para crear interactividad en las páginas web, desarro
 - **Herramientas necesarias (editor de código, navegador)**  
 Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studio Code*](https://code.visualstudio.com)), un entorno de ejecucion para ejecutar codigo en nuestra maquina en este caso: [*NodeJS*](https://nodejs.org/en) y un navegador moderno (como Chrome o Firefox).
 <br>
+
 **[*Paso a paso de Instalacion▶️*](./docs/1-Instalacion.md)**
 
 
