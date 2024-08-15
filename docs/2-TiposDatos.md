@@ -96,7 +96,7 @@ Tipos Primitivos son aquellos que representan un valor simple e inmutable.
         ```
 - ### `RegExp`
     - Las expresiones regulares (RegExp) en JavaScript son patrones utilizados para hacer coincidir combinaciones de caracteres en cadenas de texto. Son muy útiles para validar, buscar o manipular texto.
-        - 1. Validar si una cadena contiene solo letras
+        - 1. **Validar si una cadena contiene solo letras**
             ```javascript
             let regExp = /^[a-zA-Z]+$/;
             let cadena = "HolaMundo";
@@ -107,7 +107,7 @@ Tipos Primitivos son aquellos que representan un valor simple e inmutable.
             - `+` indica que la cadena puede contener más de una letra.
             - `$` indica el final de la cadena.
 
-        - 2. Verificar si una cadena es un número entero
+        - 2. **Verificar si una cadena es un número entero**
             ```javascript
             let regExp = /^\d+$/;
             let cadena = "12345";
@@ -116,7 +116,7 @@ Tipos Primitivos son aquellos que representan un valor simple e inmutable.
             - `\d` indica que la cadena puede contener solo números.
             - `+` indica que debe haber uno o más dígitos.
 
-        - 3. Comprobar si una cadena es un correo electrónico válido.
+        - 3. **Comprobar si una cadena es un correo electrónico válido.**
             ```javascript
             let regExp = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
             let correo = "juan.lee@gmail.com";
@@ -127,7 +127,7 @@ Tipos Primitivos son aquellos que representan un valor simple e inmutable.
             - `a-zA-Z0-9.-` coincide con letras, números, y puntos.
             - `[a-zA-Z]{2,}` coincide con al menos dos letras en la extensión del dominio.
 
-        - 4. Encontrar todas las ocurrencias de una palabra en una cadena.
+        - 4. **Encontrar todas las ocurrencias de una palabra en una cadena.**
             ```javascript
             let regExp = /mundo/gi;
             let cadena = "Hola mundo, este es un mundo increíble";
