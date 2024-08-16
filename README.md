@@ -32,7 +32,7 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 [*👉Ir a la leccion▶️*](./docs/2.4-EstructurasControl.md)
 
 ## 3. Funciones
-- **Declaración de funciones**  
+- **Declaración de funciones**
 [*👉Ir a la leccion▶️*](./docs/3.1-DeclaracionFunciones.md)
 - **Parámetros y argumentos**  
 
