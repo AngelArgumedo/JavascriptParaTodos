@@ -23,13 +23,13 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 
 ## 2. Fundamentos de JavaScript
 - **Sintaxis básica, Variables y Constantes**
-[*👉Ir a la leccion▶️*](./docs/2-FundamentosJS.md)
+[*👉Ir a la leccion▶️*](./docs/2.1-FundamentosJS.md)
 - **Tipos de Datos**
-[*👉Ir a la leccion▶️*](./docs/2-TiposDatos.md)
+[*👉Ir a la leccion▶️*](./docs/2.2-TiposDatos.md)
 - **Operadores**
-[*👉Ir a la leccion▶️*](./docs/2-Operadores.md)
+[*👉Ir a la leccion▶️*](./docs/2.3-Operadores.md)
 - **Estructuras de control**
-[*👉Ir a la leccion▶️*](./docs/2-EstructurasControl.md)
+[*👉Ir a la leccion▶️*](./docs/2.4-EstructurasControl.md)
 
 ## 3. Funciones
 - **Declaración de funciones**  
