@@ -27,7 +27,7 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 - **Tipos de Datos**
 [*👉Ir a la leccion▶️*](./docs/2-TiposDatos.md)
 - **Operadores**
-
+[*👉Ir a la leccion▶️*](./docs/2-Operadores.md)
 - **Estructuras de control**
 
 ## 3. Funciones
