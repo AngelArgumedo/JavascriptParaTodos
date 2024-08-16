@@ -1,3 +1,4 @@
+## 2. Fundamentos de JavaScript
 # Estructuras de Control en JavaScript
 
 Las estructuras de control en JavaScript permiten alterar el flujo de ejecución de un programa en función de ciertas condiciones o repeticiones. A continuación, se describen las principales estructuras de control.
