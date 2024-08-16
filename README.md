@@ -34,15 +34,15 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 ## 3. Funciones
 - **Declaración de funciones**
 [*👉Ir a la leccion▶️*](./docs/3.1-DeclaracionFunciones.md)
-- **Parámetros y argumentos**  
+- **Parámetros y argumentos**
+[*👉Ir a la leccion▶️*](./docs/3.2-ParametrosArgumentos.md)
+- **Funciones anónimas**
 
-- **Funciones anónimas**  
-
-- **Funciones flecha**  
+- **Funciones flecha**
 
 - **Recursividad**
 
-- **Alcance y cierre**  
+- **Alcance y cierre**
 
 ## 4. Estructuras de datos
 
