@@ -37,7 +37,7 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 - **Parámetros y argumentos**
 [*👉Ir a la leccion▶️*](./docs/3.2-ParametrosArgumentos.md)
 - **Funciones anónimas**
-
+[*👉Ir a la leccion▶️*](./docs/3.3-funcionesAnonimas.md)
 - **Funciones flecha**
 
 - **Recursividad**
