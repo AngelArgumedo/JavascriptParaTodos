@@ -39,10 +39,11 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 - **Funciones anónimas**
 [*👉Ir a la leccion▶️*](./docs/3.3-funcionesAnonimas.md)
 - **Funciones flecha**
-
+[*👉Ir a la leccion▶️*](./docs/3.4-funcionesFlecha.md)
 - **Recursividad**
-
+[*👉Ir a la leccion▶️*](./docs/3.5-recursividad.md)
 - **Alcance y cierre**
+[*👉Ir a la leccion▶️*](./docs/3.6-alcanceCierre.md)
 
 ## 4. Estructuras de datos
 
