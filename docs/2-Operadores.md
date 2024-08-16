@@ -183,31 +183,12 @@ Los operadores lógicos se utilizan para combinar condiciones lógicas.
     let resultado = !(5 > 3); // false
     ```
 
-## 5. Operadores de Incremento y Decremento
-
-Estos operadores se utilizan para incrementar o decrementar el valor de una variable.
-
-- ### Incremento (`++`)
-    - Incrementa el valor de una variable en 1.
-    ```javascript
-    let numero = 5;
-    numero++; // 6
-    ```
-
-- ### Decremento (`--`)
-    - Decrementa el valor de una variable en 1.
-    ```javascript
-    let numero = 5;
-    numero--; // 4
-    ```
-
-
 ## Resumen
 
 - **Operadores Aritméticos**: `+`, `-`, `*`, `/`, `%`, `**`, `++`, `--`.
 - **Operadores de Asignación**: `=`, `+=`, `-=`, `*=`, `/=`, `%=`, `**=`.
 - **Operadores de Comparación**: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`.
 - **Operadores Lógicos**: `&&`, `||`, `!`.
-- **Operadores de Incremento y Decremento**: `++`, `--`.
+
 
 **[↩️Regresar al inicio](../README.md)**
