@@ -48,8 +48,10 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 ## 4. Estructuras de datos
 
 - **Arrays**
+[*👉Ir a la leccion▶️*](./docs/4.1-array.md)
 
 - **Listas enlazadas (Linked List)**
+[*👉Ir a la leccion▶️*](./docs/4.2-linked_list.md)
 
 - **Pilas (Stack)**
 
