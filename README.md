@@ -54,12 +54,16 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 [*👉Ir a la leccion▶️*](./docs/4.2-linked_list.md)
 
 - **Pilas (Stack)**
+[*👉Ir a la leccion▶️*](./docs/4.3-pilas.md)
 
 - **Colas (Queue)**
+[*👉Ir a la leccion▶️*](./docs/4.4-colas.md)
 
 - **Arboles (Tree)**
+[*👉Ir a la leccion▶️*](./docs/4.5-arboles.md)
 
 - **Grafos (Graph)**
+[*👉Ir a la leccion▶️*](./docs/4.6-grafos.md)
 
 ## 5. Programación orientada a objetos (POO)
 
