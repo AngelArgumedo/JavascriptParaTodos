@@ -68,14 +68,19 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 ## 5. Programación orientada a objetos (POO)
 
 - **Clases y objetos**
-
-- **Herencia y polimorfismo**
-
-- **Encapsulamiento**
+[*👉Ir a la leccion▶️*](./docs/5.1-clases_objetos.md)
 
 - **Metodos y propiedades**
+[*👉Ir a la leccion▶️*](./docs/5.2-metodos_propiedades.md)
+
+- **Herencia y polimorfismo**
+[*👉Ir a la leccion▶️*](./docs/5.3-herencia_polimorfismo.md)
+
+- **Encapsulamiento**
+[*👉Ir a la leccion▶️*](./docs/5.4-encapsulamiento.md)
 
 - **Prototipos**
+[*👉Ir a la leccion▶️*](./docs/5.5-prototipos.md)
 
 ## 6. Asincronia en JavaScript
 
