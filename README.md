@@ -85,9 +85,13 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 ## 6. Asincronia en JavaScript
 
 - **Callbacks**
+[*👉Ir a la leccion▶️*](./docs/6.1-callbacks.md)
 
 - **Promesas**
+[*👉Ir a la leccion▶️*](./docs/6.2-promesas.md)
 
 - **Async/Await**
+[*👉Ir a la leccion▶️*](./docs/6.3-async_await.md)
 
 - **Manejo de errores**
+[*👉Ir a la leccion▶️*](./docs/6.4-errores.md)
