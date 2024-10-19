@@ -95,3 +95,10 @@ Para empezar con JavaScript, necesitas un editor de código (como [*Visual Studi
 
 - **Manejo de errores**
 [*👉Ir a la leccion▶️*](./docs/6.4-errores.md)
+
+---
+
+- **Ejercicio 1**
+[*👉Ir a la leccion▶️*](./docs/ejercicio1.md)
+
+---
