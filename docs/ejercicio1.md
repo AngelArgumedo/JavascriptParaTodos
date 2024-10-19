@@ -33,4 +33,4 @@ El proyecto es una aplicación simple de gestión de tareas (To-Do List) que per
 
 ---
 
-**[↩️ Regresar al índice](../README.md)**                                **[Solucion ▶️](./ejercicio1.js)**
+**[↩️ Regresar al índice](../README.md)**               ||                 **[Solucion ▶️](./ejercicio1.js)**
